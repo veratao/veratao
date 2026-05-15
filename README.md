@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vera Tao</h1>
-<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently looking for     **spring co-op / summer internship / full-time**
-
-- ⚡ Fun fact **I love working out at gym, eating ice cream and birding.**
+- ⚡ Fun fact **I love working out at gym, playing video games and tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
